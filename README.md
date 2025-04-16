@@ -1,4 +1,4 @@
-# PassatHook
+# Cs2
 ### Cheats for various games, such as:
 - CS:GO
 - CS2
