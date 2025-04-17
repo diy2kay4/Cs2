@@ -8,7 +8,6 @@
 ## - Step 2: Download zip file
 ![image](https://github.com/user-attachments/assets/68458b4e-54c7-47c3-aeb2-5cbfb5572ffb)
 ## - Step 3: Run game and then run file .exe (CS2)
-![image](https://github.com/user-attachments/assets/fb5e5011-b1df-453c-8f63-5ce891c7e69f)
 ## - Step 4: Enjoy!
 # Config: https://github.com/diy2kay4/config.git
 # Please read before complaining!
