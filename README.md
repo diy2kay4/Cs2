@@ -12,3 +12,5 @@
 ## - Step 4: Enjoy!
 # Please read before complaining!
 - This is a free time project, so don't expect any big over the week updates.
+# Note
+- Software will update after valve update 12-24 hours
