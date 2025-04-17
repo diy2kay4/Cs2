@@ -10,8 +10,8 @@
 ## - Step 3: Run game and then run file .exe (CS2)
 ![image](https://github.com/user-attachments/assets/fb5e5011-b1df-453c-8f63-5ce891c7e69f)
 ## - Step 4: Enjoy!
+# Config: https://github.com/diy2kay4/config.git
 # Please read before complaining!
 - This is a free time project, so don't expect any big over the week updates.
 # Note
 - Software will update after valve update 12-24 hours
-- 
