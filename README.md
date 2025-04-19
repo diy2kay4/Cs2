@@ -1,6 +1,6 @@
 # Cs2
 ### Cheats for various games, such as:
-- CS:GO
+- CS:GO(not available)
 - CS2
 # Tutorial
 ## - Step 1: Turn off Windows Security
