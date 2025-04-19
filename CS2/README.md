@@ -6,3 +6,4 @@
 # How it works?
 ### It's an external aplication that can read and write CS2 memory.
 ### Uses ImGui library to draw on the screen.
+
