@@ -14,3 +14,6 @@
 - This is a free time project, so don't expect any big over the week updates.
 # Note
 - Software will update after valve update 12-24 hours
+
+# Video tutorial:
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/f1ggj3nh5OA?si=53tJdt0FYcvo147i)
